@@ -1,14 +1,16 @@
-### Eae! Tudo bom? Eu sou o João Pedro Cabral
+### ✨ Eae! Tudo bom? Eu sou o João Pedro Cabral 😎✨
 
-- 🔭 Hoje atuo como analista e programador de sistemas
-- 🌱 Estudando front-end (HTML, CSS, JavaScript)
+##
+
+- 👨‍💼 Hoje atuo como Analista e Programador de sistemas
+- 📚 Estudando desenvolvimento front-end (HTML, CSS, JavaScript)
 - 📫 E-mail para contato: joaopedrocabral31@gmail.com
 - 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/joaopedro-cabral">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaopedro-cabral&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedro-cabral&layout=compact&langs_count=7&theme=dark"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=joaopedro-cabral&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedro-cabral&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Jp-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
