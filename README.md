@@ -2,7 +2,7 @@
 
 ##
 
-- 👨‍💼 Hoje atuo como Analista e Programador de sistemas
+- 👨‍💼 Hoje atuo como Analista e Programador de Sistemas
 - 📚 Estudando desenvolvimento front-end (HTML, CSS, JavaScript)
 - 📫 E-mail para contato: joaopedrocabral31@gmail.com
 - 😄 Ele/dele
