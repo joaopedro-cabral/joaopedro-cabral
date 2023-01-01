@@ -5,7 +5,7 @@
 - 👨‍💼 Hoje atuo como Analista e Programador de sistemas
 - 📚 Estudando desenvolvimento front-end (HTML, CSS, JavaScript)
 - 📫 E-mail para contato: joaopedrocabral31@gmail.com
-- 😄 Pronouns: ele/dele
+- 😄 Ele/dele
 
 <div align="center">
   <a href="https://github.com/joaopedro-cabral">
