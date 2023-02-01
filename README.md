@@ -1,9 +1,14 @@
-### ✨ Eae! Tudo bom? Eu sou o João Pedro Cabral 😎✨
+<div style="display: inline_block"><br>
+  <img align="left" alt="obiwan" height="200" style="border-radius:50px;" src="https://media.giphy.com/media/RhGbWYqUJdPWM18zI6/giphy.gif">
+  <img align="right" alt="yoda2" height="200" style="border-radius:50px;" src="https://media.giphy.com/media/4AinVHD68bKoYooy8t/giphy.gif">
+</div>
+
+### Seja muito bem-vindo ao meu perfil!!
 
 ##
 
-- 👨‍💼 Hoje atuo como Analista e Programador de Sistemas
-- 📚 Estudando desenvolvimento front-end (HTML, CSS, JavaScript)
+- 👨‍💼 Atualmente, Analista e Programador de Sistemas.
+- 📚 Estudando desenvolvimento front-end (HTML, CSS, JavaScript).
 - 📫 E-mail para contato: joaopedrocabral31@gmail.com
 - 😄 Ele/dele
 
