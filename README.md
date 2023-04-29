@@ -21,8 +21,11 @@
   <img align="center" alt="Jp-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jp-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jp-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Jp-CSS" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg">
+  <img align="center" alt="Jp-CSS" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
   <img align="center" alt="Jp-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jp-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Jp-C" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
   <img align="right" alt="Yoda" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/mG2o06QBYpEk7npyON/giphy.gif">
 </div>
 
