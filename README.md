@@ -1,5 +1,4 @@
 <div style="display: inline_block"><br>
-  <img align="left" alt="obiwan" height="200" style="border-radius:50px;" src="https://media.giphy.com/media/RhGbWYqUJdPWM18zI6/giphy.gif">
   <img align="right" alt="yoda2" height="200" style="border-radius:50px;" src="https://media.giphy.com/media/4AinVHD68bKoYooy8t/giphy.gif">
 </div>
 
