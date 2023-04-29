@@ -3,14 +3,14 @@
   <img align="right" alt="yoda2" height="200" style="border-radius:50px;" src="https://media.giphy.com/media/4AinVHD68bKoYooy8t/giphy.gif">
 </div>
 
-### Seja muito bem-vindo ao meu perfil!!
+### Welcome to my profile!!
 
 ##
 
-- 👨‍💼 Atualmente, Analista e Programador de Sistemas.
-- 📚 Estudando desenvolvimento front-end (HTML, CSS, JavaScript).
-- 📫 E-mail para contato: joaopedrocabral31@gmail.com
-- 😄 Ele/dele
+- 👨‍💼 Working as a developer analyst, building web and mobile applications.
+- 📚 Graduating in Computer Engineering (5/10). 
+- 🖥️ Studying web development (HTML, CSS, Bootstrap, Scss, php, JavaScript, jQuery, MySQL, SQLServer).
+- 📫 Contact e-mail: joaopedrocabral31@gmail.com
 
 <div align="center">
   <a href="https://github.com/joaopedro-cabral">
