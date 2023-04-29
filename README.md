@@ -6,7 +6,7 @@
 
 ##
 
-- 👨‍💼 Working as a developer analyst, building web and mobile applications.
+- 👨‍💼 Working as a Developer Analyst, building web and mobile applications.
 - 📚 Graduating in Computer Engineering (5/10). 
 - 🖥️ Studying web development (HTML, CSS, Bootstrap, Scss, php, JavaScript, jQuery, MySQL, SQLServer).
 - 📫 Contact e-mail: joaopedrocabral31@gmail.com
